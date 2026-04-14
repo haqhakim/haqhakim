@@ -1,6 +1,10 @@
- 👋 Hi there!
+ 👋 Hi, Iam Hakim!
 
-It's Hakim! I'm a passionate and fully dedicated business analyst with over 5 years of experience helping both national and multinational companies unlock the power of data. I thrive on critical thinking and a strong data-driven mindset, using insights to tell the real story behind numbers and guide business strategy.
+I’m a data analyst with over 6 years of experience in data analysis, helping organizations transform data into actionable insights and strategic decisions.
 
-From assessing how close a company is to hitting its targets to crafting clear, actionable plans—I’ve done it all across different industries. My toolkit? A solid blend of business acumen, data processing tools like Excel and Python, and powerful visualization with Power BI and Tableau. Spotting what matters most and building smart strategies is where I shine!
+My work focuses on analyzing business and operational data to identify trends, uncover performance drivers, and support data-driven decision making. I specialize in data analysis, dashboard development, and performance reporting using tools such as Excel, SQL, Power BI, and Tableau.
+
+I enjoy turning complex datasets into clear insights and compelling data stories that help stakeholders understand what is happening in the business and what actions should be taken next.
+
+This portfolio highlights several projects where I apply analytical thinking, data visualization, and business understanding to solve real-world problems.
 
