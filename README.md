@@ -34,10 +34,10 @@ I enjoy turning complex datasets into clear insights and compelling data stories
 
 ## 📊 Projects
 
-### 🛒 Supermarket Sales Analysis (EDA + Insight)
-- Tools: Python, SQL, Tableau
-- Focus: Customer behavior & revenue trend
-- 👉 [View Project](https://github.com/username/project1)
+### 🐾 Pet Store Sales Analysis (Data Validation + EDA + Insight)
+- Tools: Google BigQuery, SQL
+- Focus: Perform EDA to surface business insights around product performance and transaction patterns
+- 👉 [View Project](https://github.com/haqhakim/pet-store-sales-analysis)
 
 ---
 
