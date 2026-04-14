@@ -41,7 +41,7 @@ I enjoy turning complex datasets into clear insights and compelling data stories
 
 ---
 
-### 📈 Power BI Sales Dashboard (Retail Performance)
-- Tools: Power BI, Excel
-- Focus: KPI tracking, revenue, store comparison
-- 👉 [View Dashboard](https://github.com/username/project2)
+### 📈 Chocolate Sales Dashboard (Retail Performance)
+- Tools: Power BI
+- Focus: Understand sales trends, customer behavior, and the effectiveness of discount strategies
+- 👉 [View Dashboard](https://www.notion.so/Project-Summary-33f721016254806a9f89ee9f2fa0e4a9)
