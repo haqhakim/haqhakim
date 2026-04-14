@@ -45,3 +45,12 @@ I enjoy turning complex datasets into clear insights and compelling data stories
 - Tools: Power BI
 - Focus: Understand sales trends, customer behavior, and the effectiveness of discount strategies
 - 👉 [View Dashboard](https://www.notion.so/Project-Summary-33f721016254806a9f89ee9f2fa0e4a9)
+
+---
+
+### ⚽ Ruben Amorim Comparative Performance: Manchester United and Sporting CP
+- Tools: Tableau Public
+- Focus: Understand performance from different matrics for Ruben Amorim team
+- 👉 [View Dashboard](https://public.tableau.com/app/profile/el.hakim6864/viz/RubenAmorim/Dashboard1#1)
+
+
