@@ -55,7 +55,7 @@ I enjoy turning complex datasets into clear insights and compelling data stories
 
 ---
 
-### ⚽ Understanding Sales and Profitability
+### 💰 Understanding Sales and Profitability
 - Tools: Tableau Public
 - Focus: Analysis of the company's profitability 
 - 👉 [View Dashboard](https://public.tableau.com/app/profile/el.hakim6864/viz/Project2_17405594394210/Dashboard1#2)
