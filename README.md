@@ -6,5 +6,4 @@ My work focuses on analyzing business and operational data to identify trends, u
 
 I enjoy turning complex datasets into clear insights and compelling data stories that help stakeholders understand what is happening in the business and what actions should be taken next.
 
-This portfolio highlights several projects where I apply analytical thinking, data visualization, and business understanding to solve real-world problems.
 
