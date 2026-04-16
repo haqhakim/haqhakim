@@ -60,6 +60,8 @@ I enjoy turning complex datasets into clear insights and compelling data stories
 - Focus: Analysis of the company's profitability 
 - 👉 [View Dashboard](https://public.tableau.com/app/profile/el.hakim6864/viz/Project2_17405594394210/Dashboard1#2)
 
+---
+
 ### Indonesia Trade Analysis
 - Tools: BigQuery, Tableau Prep, Tableau Public
 - Focus: Analysis of Indonesia's Export and Import activities with US and China for the past 3 years
