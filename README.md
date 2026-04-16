@@ -34,28 +34,33 @@ I enjoy turning complex datasets into clear insights and compelling data stories
 
 ## 📊 Projects
 
-### 🐾 Pet Store Sales Analysis (Data Validation + EDA + Insight)
+### Pet Store Sales Analysis (Data Validation + EDA + Insight)
 - Tools: Google BigQuery, SQL
 - Focus: Perform EDA to surface business insights around product performance and transaction patterns
 - 👉 [View Project](https://github.com/haqhakim/pet-store-sales-analysis)
 
 ---
 
-### 📈 Chocolate Sales Dashboard (Retail Performance)
+### Chocolate Sales Dashboard (Retail Performance)
 - Tools: Power BI
 - Focus: Understand sales trends, customer behavior, and the effectiveness of discount strategies
 - 👉 [View Dashboard](https://www.notion.so/Project-Summary-33f721016254806a9f89ee9f2fa0e4a9)
 
 ---
 
-### ⚽ Ruben Amorim Comparative Performance: Manchester United and Sporting CP
+### Ruben Amorim Comparative Performance: Manchester United and Sporting CP
 - Tools: Tableau Public
 - Focus: Understand performance from different matrics for Ruben Amorim team
 - 👉 [View Dashboard](https://public.tableau.com/app/profile/el.hakim6864/viz/RubenAmorim/Dashboard1#1)
 
 ---
 
-### 💰 Understanding Sales and Profitability
+### Understanding Sales and Profitability
 - Tools: Tableau Public
 - Focus: Analysis of the company's profitability 
 - 👉 [View Dashboard](https://public.tableau.com/app/profile/el.hakim6864/viz/Project2_17405594394210/Dashboard1#2)
+
+### Indonesia Trade Analysis
+- Tools: BigQuery, Tableau Prep, Tableau Public
+- Focus: Analysis of Indonesia's Export and Import activities with US and China for the past 3 years
+- 👉 [View Dashboard](https://github.com/haqhakim/Indonesia-Customs)
